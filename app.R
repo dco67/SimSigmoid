@@ -1,9 +1,9 @@
-# Load the necessary libraries
 library(shiny)
 library(ggplot2)
 library(shinyWidgets)
-library(broom)
-library(nlshelper)
+
+# library(broom)
+# library(nlshelper)
 
 
 # Define the Gompertz, Logistic, and Weibull functions
